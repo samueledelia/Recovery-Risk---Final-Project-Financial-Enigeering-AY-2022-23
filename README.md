@@ -4,3 +4,5 @@ In order to do that we try to calibrate the distribution of the recovery rate to
 the end we valuate the Credit portfolio VaR by varying the different parameters of the model.
 
 The project focuses on developing a comprehensive framework to assess, monitor these risks, ultimately enhancing the institution’s risk measure capabilities and overall financial stability.
+
+Look at [Final project PDF](FinalProject_DElia_Soatto.pdf) for more info.
